@@ -2,7 +2,7 @@
 	"name": "angular-dev-extension-pack",
 	"displayName": "Angular Dev Extension Pack",
 	"description": "Extension Pack for Kickass Angular Development",
-	"icon": "images/angular-shield.png",
+	"icon": "images/coderush.png",
 	"galleryBanner": {
 		"color": "#0273D4",
 		"theme": "dark"
@@ -30,6 +30,9 @@
 		"Orta.vscode-jest",
 		"streetsidesoftware.code-spell-checker",
 		"robinbentley.sass-indented",
-		"EditorConfig.editorconfig"
+		"EditorConfig.editorconfig",
+		"Angular.ng-template",
+		"SonarSource.sonarlint-vscode",
+		"kisstkondoros.vscode-codemetrics"
 	]
 }
