@@ -9,7 +9,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/johnpapa/vscode-angular-snippets.git"
+		"url":
+			"https://github.com/distributedinfinity/angular-dev-extension-pack"
 	},
 	"version": "0.0.1",
 	"publisher": "distributedInfinity",
