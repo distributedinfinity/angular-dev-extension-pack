@@ -3,29 +3,31 @@
 	"displayName": "Angular Dev Extension Pack",
 	"description": "Extension Pack for Kickass Angular Development",
 	"icon": "images/coderush.png",
+	"keywords": [
+		"Angular",
+		"Typescript"
+	],
 	"galleryBanner": {
 		"color": "#0273D4",
 		"theme": "dark"
 	},
 	"repository": {
 		"type": "git",
-		"url":
-			"https://github.com/distributedinfinity/angular-dev-extension-pack"
+		"url": "https://github.com/distributedinfinity/angular-dev-extension-pack"
 	},
-	"version": "0.0.1",
+	"version": "0.0.5",
 	"publisher": "distributedInfinity",
 	"engines": {
 		"vscode": "^1.23.0"
 	},
-	"categories": ["Extension Packs"],
+	"categories": [
+		"Extension Packs"
+	],
 	"extensionDependencies": [
-		"codezombiech.gitignore",
-		"eamodio.gitlens",
 		"eg2.tslint",
 		"christian-kohler.path-intellisense",
 		"esbenp.prettier-vscode",
 		"msjsdiag.debugger-for-chrome",
-		"rbbit.typescript-hero",
 		"pmneo.tsimporter",
 		"Orta.vscode-jest",
 		"streetsidesoftware.code-spell-checker",
@@ -33,6 +35,9 @@
 		"EditorConfig.editorconfig",
 		"Angular.ng-template",
 		"SonarSource.sonarlint-vscode",
-		"kisstkondoros.vscode-codemetrics"
+		"kisstkondoros.vscode-codemetrics",
+		"robertohuertasm.vscode-icons",
+		"ryanluker.vscode-coverage-gutters",
+		"CoenraadS.bracket-pair-colorizer"
 	]
 }

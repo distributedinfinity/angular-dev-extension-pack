@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "Truthy",
+        "injectable"
+    ],
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 80,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "tslint.autoFixOnSave": true,
+    "editor.formatOnSave": true,
+    "sonarlint.ls.javaHome": "java_path",
+    "jest.runAllTestsFirst": false,
+    "coverage-gutters.lcovname": "coverage/lcov.info"
+}
