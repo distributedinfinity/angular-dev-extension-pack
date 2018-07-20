@@ -38,4 +38,5 @@ This is a extension pack to enable kickass Angular development
 ```
 
 **Enjoy! BaBam!!!**
+
 **Made with :heart: by Anant Atray**
